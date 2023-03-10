@@ -1,4 +1,5 @@
 // 196776690	Mar/10/2023 17:00UTC+6	Nadia-Iqbal	71A - Way Too Long Words	GNU C11	Accepted	15 ms	0 KB
+//https://codeforces.com/problemset/problem/71/A
 #include<stdio.h>
 #include<string.h>
 int main(){
